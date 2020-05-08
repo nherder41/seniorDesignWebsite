@@ -1,0 +1,11 @@
+
+
+body {
+    box-sizing: border-box;
+    margin-left:  250px;
+    margin-right:  250px;
+}
+
+div * { 
+    text-align: left;
+}
