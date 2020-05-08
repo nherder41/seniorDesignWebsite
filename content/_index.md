@@ -22,7 +22,7 @@ Contact: [LinkedIn](https://www.linkedin.com/in/nathan-herder-3a361b150/), [nate
 ***
 ## **Our Projects**
 
-[Final Presentation Video](https://www.youtube.com)
+[Final Presentation Video](https://vimeo.com/416224469)
 
 + Vision: To expand TSGL’s functionality so that it has three-dimensional graphical capabilities.
 
